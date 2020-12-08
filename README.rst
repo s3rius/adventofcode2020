@@ -3,7 +3,10 @@
    :width: 700px
    :target: https://adventofcode.com/2020/
  
-.. topic:: About 
+About this repo 
+===============
 
-    This repo contain solutions for ``Advent of code 2020``.
-    But if you don't want to get all the spoilers please don't open ``main.ipynb``
+This repo contain solutions for ``Advent of code 2020``.
+
+.. warning:: Spoilers alert
+    If you don't want to get all the spoilers please don't open ``main.ipynb``
